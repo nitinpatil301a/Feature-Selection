@@ -1,2 +1,2 @@
 # Feature-Selection
-Feature Selection Complete guide
+Feature Selection complete guide
